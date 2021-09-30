@@ -1,7 +1,7 @@
 ---
 title: Ali Tabatabaee
 role: Professor of Artificial Intelligence
-avatar_filename: ""
+avatar_filename: 20210930_014452.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

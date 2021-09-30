@@ -1,5 +1,5 @@
 ---
-title: Seyed Ali Tabatabaee
+title: Ali Tabatabaee
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.

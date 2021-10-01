@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: <i class="ai ai-google-scholar-square ai-3x"></i>
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github

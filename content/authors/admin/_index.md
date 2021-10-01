@@ -34,7 +34,7 @@ education:
       year: 2009
     - course: B.Sc. in Computer Engineering
       institution: Sharif University of Technology
-      year: ""
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true

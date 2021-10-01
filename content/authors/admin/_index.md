@@ -26,9 +26,9 @@ organizations:
     url: https://www.ubc.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Ph.D. in Computer Science
+      institution: The University of British Columbia
+      year: 2025
     - course: M.Sc. in Computer Science
       institution: The University of British Columbia
       year: 2021

@@ -13,13 +13,13 @@ social:
     link: /#contact
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=TOhR0XMAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/The-CodeBreakeR
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/seyed-ali-tabatabaee-2a5abb1a0/
 organizations:
   - name: The University of British Columbia
     url: https://www.ubc.ca/

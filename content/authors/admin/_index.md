@@ -2,8 +2,7 @@
 title: Ali Tabatabaee
 role: Ph.D. Student in Computer Science
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Algorithms
   - Game Theory

@@ -1,6 +1,6 @@
 ---
 title: Ali Tabatabaee
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Computer Science
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses:
     - course: PhD in Artificial Intelligence

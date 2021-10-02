@@ -47,14 +47,14 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url: ""
   date_end: ""
   date_start: "2012-09-01"
   description: ""
   organization: Young Scholars Club (YSC)
-  organization_url: https://www.edx.org
+  organization_url: ""
   title: 'Bronze Medal in the Iranian National Olympiad in Informatics (INOI)'
-  url:  https://www.coursera.org
+  url: https://ioinformatics.org/journal/v11si_2017_25_33.pdf
 
 design:
   columns: '2' 

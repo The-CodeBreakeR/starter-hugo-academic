@@ -28,23 +28,31 @@ item:
   date_start: "2021-09-01"
   description: ""
   organization: The University of British Columbia
-  organization_url: "https://www.ubc.ca/"
+  organization_url: https://www.ubc.ca/
   title: 'The President’s Academic Excellence Initiative Ph.D. Award'
   url: ""
-  - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2021-08-01"
   description: ""
   organization: The University of British Columbia
-  organization_url: "https://www.ubc.ca/"
+  organization_url: https://www.ubc.ca/
   title: 'The Faculty of Science Ph.D. Tuition Award'
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2014-09-01"
+  description: ""
+  organization: Mitacs
+  organization_url: https://www.mitacs.ca/en
+  title: 'The Mitacs Accelerate Award (3 Units)'
+  url: https://www.mitacs.ca/en/programs/accelerate
 - certificate_url: ""
   date_end: ""
   date_start: "2019-12-01"
   description: ""
   organization: The University of British Columbia
-  organization_url: "https://www.ubc.ca/"
+  organization_url: https://www.ubc.ca/
   title: 'The Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
   url: ""
 - certificate_url: ""
@@ -52,7 +60,7 @@ item:
   date_start: "2019-09-01"
   description: ""
   organization: The University of British Columbia
-  organization_url: "https://www.ubc.ca/"
+  organization_url: https://www.ubc.ca/
   title: 'The International Tuition Award'
   url: ""
 - certificate_url: ""
@@ -76,7 +84,7 @@ item:
   date_start: "2013-07-01"
   description: ""
   organization: National Organization for Development of Exceptional Talents (NODET)
-  organization_url: "http://www.nodet.net/"
+  organization_url: http://www.nodet.net/
   title: '1st Place in the 7th Hellinet Programming Contest'
   url: ""
 - certificate_url: ""

@@ -20,11 +20,11 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-09-01"
+  date_start: "2019-08-01"
   description: ""
-  organization: The University of British Columbia
+  organization: The 31st Canadian Conference on Computational Geometry (CCCG)
   organization_url: https://www.ubc.ca/
-  title: 'The President’s Academic Excellence Initiative Ph.D. Award'
+  title: 'Distributed Unit Clustering'
   url: ""
 
 

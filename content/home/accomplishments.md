@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2019-12-01"
+  description: ""
+  organization: The University of British Columbia
+  organization_url: "https://www.ubc.ca/"
+  title: 'The Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2019-09-01"
   description: ""
   organization: The University of British Columbia

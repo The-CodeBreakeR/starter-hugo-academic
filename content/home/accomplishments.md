@@ -41,7 +41,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2014-09-01"
+  date_start: "2020-05-01"
   description: ""
   organization: Mitacs
   organization_url: https://www.mitacs.ca/en

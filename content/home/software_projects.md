@@ -20,7 +20,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2019-08-01"
+  date_start: ""
   description: "A fully decentralized application that virtualizes a tulip growing community"
   organization: Winter 2020
   organization_url: ""

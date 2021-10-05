@@ -23,7 +23,7 @@ item:
   date_start: "2019-08-01"
   description: ""
   organization: The 31st Canadian Conference on Computational Geometry (CCCG)
-  organization_url: https://www.ubc.ca/
+  organization_url: https://sites.ualberta.ca/~cccg2019/
   title: 'Distributed Unit Clustering'
   url: ""
 

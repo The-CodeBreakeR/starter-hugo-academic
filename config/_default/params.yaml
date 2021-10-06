@@ -33,12 +33,12 @@ address:
 contact_links:
   - icon: telegram
     icon_pack: fab
-    name: DM Me
+    name: @ColdCaress
     link: 'https://t.me/ColdCaress'
-  - icon: skype
+  - icon: instagram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: @ali_the_codebreaker
+    link: 'https://www.instagram.com/ali_the_codebreaker/'
 
 
 # Site header

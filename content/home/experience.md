@@ -33,7 +33,6 @@ experience:
         Responsibilities include:
         
         * Analysing
-        * Modelling
         * Deploying
   - title: Research Intern
     company: IT-Orbit Co.

@@ -35,6 +35,14 @@ experience:
         * Analysing
         * Deploying
   - title: Research Intern
+    company: Aalto University
+    company_url: http://www.aalto.fi/en/
+    company_logo: aalto_university
+    location: Espoo, Uusimaa, Finland
+    date_start: '2018-06-01'
+    date_end: '2018-08-01'
+    description: Research on blockchains and development of a decentralized marketplace for the Secure Open Federation for Internet Everywhere (SOFIE) project supervised by Dr. Pekka Nikander
+  - title: Research Intern
     company: IT-Orbit Co.
     company_url: http://www.itorbit.net/
     company_logo: it-orbit_co.

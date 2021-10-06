@@ -33,11 +33,11 @@ address:
 contact_links:
   - icon: telegram
     icon_pack: fab
-    name: @ColdCaress
+    name: '@ColdCaress'
     link: 'https://t.me/ColdCaress'
   - icon: twitter
     icon_pack: fab
-    name: @ali_the_codebreaker
+    name: '@ali_the_codebreaker'
     link: 'https://www.instagram.com/ali_the_codebreaker/'
 
 

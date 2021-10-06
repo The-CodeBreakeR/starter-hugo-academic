@@ -31,10 +31,10 @@ address:
   country_code: CA
 
 contact_links:
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://t.me/ColdCaress'
   - icon: skype
     icon_pack: fab
     name: Skype Me

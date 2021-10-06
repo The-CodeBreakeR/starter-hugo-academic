@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: salamhs
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Instructor
+    company: Salam High School
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: salamhs
+    location: Tehran, Iran
+    date_start: '2013-09-01'
+    date_end: '2016-01-01'
+    description: Instructor for Design of Algorithms, Programming in C++, Graph Theory, and Combinatorics
 
 design:
   columns: '2'

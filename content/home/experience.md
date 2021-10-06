@@ -45,7 +45,7 @@ experience:
     description: Research on blockchains and cryptocurrencies
   - title: Instructor
     company: Salam High School
-    company_url: ''
+    company_url: https://www.salamsch.com/
     company_logo: salamhs
     location: Tehran, Iran
     date_start: '2013-09-01'

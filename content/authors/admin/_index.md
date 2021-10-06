@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: salitaba@cs.ubc.ca
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TOhR0XMAAAAJ&hl=en&oi=sra

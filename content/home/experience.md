@@ -34,6 +34,18 @@ experience:
         
         * Analysing
         * Deploying
+  - title: Teaching Assistant
+    company: Sharif University of Technology
+    company_url: http://www.en.sharif.edu/
+    company_logo: sharif_university_of_technology
+    location: Tehran, Iran
+    date_start: '2016-09-01'
+    date_end: '2018-12-01'
+    description: |2-
+        * Discrete Structures (2 terms)
+        * Theory of Languages and Automata (2 terms)
+        * Artificial Intelligence (2 terms)
+        * Design of Algorithms (3 terms)
   - title: Research Intern
     company: Aalto University
     company_url: http://www.aalto.fi/en/

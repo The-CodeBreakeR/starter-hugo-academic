@@ -35,7 +35,14 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
+  - title: Research Intern
+    company: IT-Orbit Co.
+    company_url: http://www.itorbit.net/
+    company_logo: it-orbit_co.
+    location: Tehran, Iran
+    date_start: '2017-07-01'
+    date_end: '2017-09-01'
+    description: Research on blockchains and cryptocurrencies
   - title: Instructor
     company: Salam High School
     company_url: ''

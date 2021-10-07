@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: The University of British Columbia
+    company_url: https://www.ubc.ca/
+    company_logo: the_university_of_british_columbia
+    location: Vancouver, British Columbia, Canada
+    date_start: '2019-09-01'
+    date_end: '2021-08-01'
+    description: |2-
+        Research on transaction relay in privacy-focused blockchains and a novel BFT-based sidechain construction supervised by Dr. Ivan Beschastnikh and Dr. Chen Feng
+        * Thesis: Attacking Transaction Relay in MimbleWimble Blockchains
   - title: Research Intern
     company: Aquanow
     company_url: https://www.aquanow.io/

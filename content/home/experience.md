@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
+    company: Aquanow
+    company_url: https://www.aquanow.io/
+    company_logo: aquanow
+    location: Vancouver, British Columbia, Canada
+    date_start: '2020-09-01'
+    date_end: '2021-08-01'
+    description: Research on transaction relay in privacy-focused blockchains
+  - title: Research Intern
     company: Peer Social
     company_url: https://peer.social/
     company_logo: peer_social

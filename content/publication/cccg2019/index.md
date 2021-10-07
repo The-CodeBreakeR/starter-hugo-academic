@@ -6,7 +6,7 @@ title: "Distributed Unit Clustering"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Kian Mirjalali
-**- Seyed Ali Tabatabaee**
+- Seyed Ali Tabatabaee
 - Hamid Zarrabi-Zadeh
 
 date: "2019-08-01T00:00:00Z"

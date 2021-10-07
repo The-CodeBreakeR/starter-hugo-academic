@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: Peer Social
+    company_url: https://peer.social/
+    company_logo: peer_social
+    location: Vancouver, British Columbia, Canada
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
+    description: Research on the scalability of a decentralized social network application
   - title: Research Assistant
     company: Sharif University of Technology
     company_url: http://www.en.sharif.edu/

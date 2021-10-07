@@ -33,9 +33,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link
+  url: https://sites.ualberta.ca/~cccg2019/cccg2019_proceedings.pdf#page=246
 
 url_pdf: ''
 url_code: ''

@@ -22,18 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: salamhs
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Research Assistant
+    company: Sharif University of Technology
+    company_url: http://www.en.sharif.edu/
+    company_logo: sharif_university_of_technology
+    location: Tehran, Iran
+    date_start: '2017-09-01'
+    date_end: '2019-07-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Deploying
+        Research on the unit clustering problem in a distributed setting supervised by Dr. Hamid Zarrabi-Zadeh
+        * Thesis: Distributed Unit Disk Covering
   - title: Teaching Assistant
     company: Sharif University of Technology
     company_url: http://www.en.sharif.edu/

@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: |2-
         * Basic Algorithms and Data Structures (1 term)
-        * Intermediate Algorithm Design and Analysis (4 terms)
+        * Intermediate Algorithm Design and Analysis (5 terms)
   - title: Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/

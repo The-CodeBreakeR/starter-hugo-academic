@@ -20,6 +20,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-05-01"
+  description: ""
+  organization: The IEEE 4th International Conference on Blockchain and Cryptocurrency (ICBC)
+  organization_url: https://icbc2022.ieee-icbc.org/
+  title: 'One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains'
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2019-08-01"
   description: ""
   organization: The 31st Canadian Conference on Computational Geometry (CCCG)

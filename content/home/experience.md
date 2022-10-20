@@ -46,7 +46,7 @@ experience:
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html
     company_logo: university_of_zurich
-    location: Zurich, Zurich, Switzerland
+    location: Zurich, Switzerland
     date_start: '2022-06-01'
     date_end: '2022-08-01'
     description: Research on Bitcoin consensus without block rewards and centralization in PoS blockchains supervised by Dr. Claudio J. Tessone
@@ -102,7 +102,7 @@ experience:
     company: Aalto University
     company_url: http://www.aalto.fi/en/
     company_logo: aalto_university
-    location: Espoo, Uusimaa, Finland
+    location: Espoo, Finland
     date_start: '2018-06-01'
     date_end: '2018-08-01'
     description: Research on blockchains and development of a decentralized marketplace for the Secure Open Federation for Internet Everywhere (SOFIE) project supervised by Dr. Pekka Nikander

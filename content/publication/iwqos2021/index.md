@@ -37,7 +37,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Link
-  url: https://ieeexplore.ieee.org/abstract/document/9521363
+  url: https://ieeexplore.ieee.org/document/9521363
 
 url_pdf: ''
 url_code: ''

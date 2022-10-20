@@ -39,7 +39,8 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * Basic Algorithms and Data Structures (1 term)
+        * Data Structures and Algorithms for Electrical Engineers (1 term)
+        * Basic Algorithms and Data Structures (2 terms)
         * Intermediate Algorithm Design and Analysis (5 terms)
   - title: Research Assistant
     company: The University of British Columbia

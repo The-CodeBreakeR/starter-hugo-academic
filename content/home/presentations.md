@@ -20,6 +20,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-06-01"
+  description: ""
+  organization: The 4th Blockchain Technology Symposium (BTS)
+  organization_url: https://bts-2022.cpsc.ucalgary.ca/
+  title: 'One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains'
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2022-05-01"
   description: ""
   organization: The IEEE 4th International Conference on Blockchain and Cryptocurrency (ICBC)

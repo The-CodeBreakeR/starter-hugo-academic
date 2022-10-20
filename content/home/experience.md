@@ -42,6 +42,14 @@ experience:
         * Data Structures and Algorithms for Electrical Engineers (1 term)
         * Basic Algorithms and Data Structures (2 terms)
         * Intermediate Algorithm Design and Analysis (5 terms)
+  - title: Research Intern
+    company: The University of Zurich
+    company_url: https://www.uzh.ch/en.html
+    company_logo: university_of_zurich
+    location: Zurich, Zurich, Switzerland
+    date_start: '2022-06-01'
+    date_end: '2022-08-01'
+    description: Research on Bitcoin consensus without block rewards and centralization in PoS blockchains supervised by Dr. Claudio J. Tessone
   - title: Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/

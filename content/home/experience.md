@@ -131,7 +131,11 @@ experience:
     location: Tehran, Iran
     date_start: '2013-09-01'
     date_end: '2016-01-01'
-    description: Instructor for Design of Algorithms, Programming in C++, Graph Theory, and Combinatorics
+    description: |2-
+        * Design of Algorithms
+        * Programming in C++
+        * Graph Theory
+        * Combinatorics
 
 design:
   columns: '2'

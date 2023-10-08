@@ -45,6 +45,14 @@ experience:
         * Data Structures and Algorithms for Electrical Engineers (1 term)
         * Introduction to Theory of Computing (1 term)
   - title: Research Intern
+    company: Kyoto University
+    company_url: https://www.kyoto-u.ac.jp/en
+    company_logo: kyoto_university
+    location: Kyoto, Japan
+    date_start: '2018-07-01'
+    date_end: '2018-08-01'
+    description: Research on fast construction of frequency difference consensus trees supervised by Dr. Jesper Jansson
+  - title: Research Intern
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html
     company_logo: university_of_zurich
@@ -102,7 +110,7 @@ experience:
         * Design of Algorithms (3 terms)
   - title: Research Intern
     company: Aalto University
-    company_url: http://www.aalto.fi/en/
+    company_url: https://www.aalto.fi/en
     company_logo: aalto_university
     location: Espoo, Finland
     date_start: '2018-06-01'

@@ -49,8 +49,8 @@ experience:
     company_url: https://www.kyoto-u.ac.jp/en
     company_logo: kyoto_university
     location: Kyoto, Japan
-    date_start: '2018-07-01'
-    date_end: '2018-08-01'
+    date_start: '2023-07-01'
+    date_end: '2023-08-01'
     description: Research on fast construction of frequency difference consensus trees supervised by Dr. Jesper Jansson
   - title: Research Intern
     company: The University of Zurich

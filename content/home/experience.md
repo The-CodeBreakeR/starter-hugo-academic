@@ -39,9 +39,11 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * Data Structures and Algorithms for Electrical Engineers (1 term)
-        * Basic Algorithms and Data Structures (2 terms)
         * Intermediate Algorithm Design and Analysis (5 terms)
+        * Basic Algorithms and Data Structures (3 terms)
+        * Advanced Algorithms Design and Analysis (1 term)
+        * Data Structures and Algorithms for Electrical Engineers (1 term)
+        * Introduction to Theory of Computing (1 term)
   - title: Research Intern
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html

@@ -10,11 +10,11 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Honors & Awards
-    url: '#honors_and_awards'
-    weight: 30
   - name: Publications
     url: '#publications'
+    weight: 30
+  - name: Honors & Awards
+    url: '#honors_and_awards'
     weight: 40
   - name: Presentations
     url: '#presentations'

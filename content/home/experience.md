@@ -30,7 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Research on data in unpredictable motion supervised by Dr. William Evans
+        Research on optimization with explorable uncertainty supervised by Dr. William Evans
   - title: Teaching Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/

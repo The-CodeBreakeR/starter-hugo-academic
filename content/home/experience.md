@@ -41,8 +41,8 @@ experience:
     description: |2-
         * Intermediate Algorithm Design and Analysis (5 terms)
         * Basic Algorithms and Data Structures (3 terms)
-        * Advanced Algorithms Design and Analysis (1 term)
-        * Data Structures and Algorithms for Electrical Engineers (1 term)
+        * Advanced Algorithms Design and Analysis (2 terms)
+        * Data Structures and Algorithms for Electrical Engineers (2 terms)
         * Introduction to Theory of Computing (1 term)
   - title: Research Intern
     company: Kyoto University

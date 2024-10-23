@@ -45,6 +45,14 @@ experience:
         * Data Structures and Algorithms for Electrical Engineers (2 terms)
         * Introduction to Theory of Computing (1 term)
   - title: Research Intern
+    company: The University of Edinburgh
+    company_url: https://www.ed.ac.uk/
+    company_logo: university_of_edinburgh
+    location: Edinburgh, Scotland
+    date_start: '2024-05-01'
+    date_end: '2024-07-01'
+    description: Research on spectral clustering for graphs with hierarchical clusters supervised by Dr. He Sun
+  - title: Research Intern
     company: Kyoto University
     company_url: https://www.kyoto-u.ac.jp/en
     company_logo: kyoto_university

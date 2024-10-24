@@ -25,7 +25,7 @@ publication_types: ["1"]
 publication: In *Proceedings of the 49th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM)*
 # publication_short: In *ICW*
 
-abstract: This paper studies two related scheduling problems: fractional bamboo trimming and distributed windows scheduling. In the fractional bamboo trimming problem, we are given n bamboos with different growth rates and cut fractions. At the end of each day, we can cut a fraction of one bamboo. The goal is to design a perpetual schedule of cuts to minimize the height of the tallest bamboo ever. For this problem, we present a 2-approximation algorithm. In addition, we prove upper bounds on the approximation factors of well-known algorithms Reduce-Max and Reduce-Fastest(x) for this problem. In the closely related windows scheduling problem, given a multiset of positive integers W = {w₁, ..., wₙ}, we want to schedule n pages on broadcasting channels such that the time interval between any two consecutive appearances of the i-th page (1 ≤ i ≤ n) is at most wᵢ. The goal of this problem is to minimize the number of channels.
+abstract: This paper studies two related scheduling problems: fractional bamboo trimming and distributed windows scheduling. In the fractional bamboo trimming problem, we are given n bamboos with different growth rates and cut fractions. At the end of each day, we can cut a fraction of one bamboo. The goal is to design a perpetual schedule of cuts to minimize the height of the tallest bamboo ever.
 
 tags: []
 

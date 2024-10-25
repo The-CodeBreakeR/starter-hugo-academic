@@ -68,7 +68,7 @@ item:
   date_start: "2014-09-01"
   description: ""
   organization: Iran’s National Elites Foundation
-  organization_url: http://bmn.ir/
+  organization_url: https://en.bmn.ir/
   title: 'The Grant for Undergraduate Studies'
   url: ""
 - certificate_url: ""
@@ -84,7 +84,7 @@ item:
   date_start: "2013-07-01"
   description: ""
   organization: National Organization for Development of Exceptional Talents (NODET)
-  organization_url: http://www.nodet.net/
+  organization_url: ""
   title: '1st Place in the 7th Hellinet Programming Contest'
   url: ""
 - certificate_url: ""

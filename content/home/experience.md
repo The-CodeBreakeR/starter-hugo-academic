@@ -88,7 +88,7 @@ experience:
     description: Research on transaction relay in privacy-focused blockchains
   - title: Research Intern
     company: Peer Social
-    company_url: https://peer.social/
+    company_url: https://www.linkedin.com/company/peer-social-foundation/
     company_logo: peer_social
     location: Vancouver, British Columbia, Canada
     date_start: '2020-05-01'
@@ -96,7 +96,7 @@ experience:
     description: Research on the scalability of a decentralized social network application
   - title: Research Assistant
     company: Sharif University of Technology
-    company_url: http://www.en.sharif.edu/
+    company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
     location: Tehran, Iran
     date_start: '2017-09-01'
@@ -106,7 +106,7 @@ experience:
         * Thesis: Distributed Unit Disk Covering
   - title: Teaching Assistant
     company: Sharif University of Technology
-    company_url: http://www.en.sharif.edu/
+    company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
     location: Tehran, Iran
     date_start: '2016-09-01'
@@ -126,7 +126,7 @@ experience:
     description: Research on blockchains and development of a decentralized marketplace for the Secure Open Federation for Internet Everywhere (SOFIE) project supervised by Dr. Pekka Nikander
   - title: Research Intern
     company: IT-Orbit Co.
-    company_url: http://www.itorbit.net/
+    company_url: https://www.itorbit.net/
     company_logo: it-orbit_co.
     location: Tehran, Iran
     date_start: '2017-07-01'
@@ -134,7 +134,7 @@ experience:
     description: Research on blockchains and cryptocurrencies
   - title: Instructor
     company: Salam High School
-    company_url: https://www.salamsch.com/
+    company_url: https://salamsch.org/
     company_logo: salamhs
     location: Tehran, Iran
     date_start: '2013-09-01'

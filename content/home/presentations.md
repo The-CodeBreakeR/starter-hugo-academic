@@ -28,6 +28,14 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
+  date_start: "2024-03-01"
+  description: ""
+  organization: The 16th Latin American Theoretical Informatics Symposium
+  organization_url: https://latin2024.cmm.uchile.cl/
+  title: 'Minimizing the Size of the Uncertainty Regions for Centers of Moving Entities'
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2024-02-01"
   description: ""
   organization: The 49th International Conference on Current Trends in Theory and Practice of Computer Science

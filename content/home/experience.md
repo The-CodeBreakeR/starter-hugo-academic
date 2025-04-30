@@ -64,6 +64,14 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-08-01'
     description: Conducted research on Bitcoin consensus without block rewards supervised by Dr. Claudio J. Tessone
+  - title: Research Intern
+    company: Aquanow
+    company_url: https://www.aquanow.io/
+    company_logo: aquanow
+    location: Canada
+    date_start: '2020-09-01'
+    date_end: '2021-08-01'
+    description: Conducted research on transaction relay in privacy-focused blockchains and developed network simulators and private test networks for this purpose
   - title: Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
@@ -74,14 +82,6 @@ experience:
     description: |2-
         Conducted research on transaction relay in privacy-focused blockchains and a novel BFT-based sidechain construction supervised by Dr. Ivan Beschastnikh and Dr. Chen Feng
         * Thesis: Attacking Transaction Relay in MimbleWimble Blockchains
-  - title: Research Intern
-    company: Aquanow
-    company_url: https://www.aquanow.io/
-    company_logo: aquanow
-    location: Canada
-    date_start: '2020-09-01'
-    date_end: '2021-08-01'
-    description: Conducted research on transaction relay in privacy-focused blockchains and developed network simulators and private test networks for this purpose
   - title: Research Intern
     company: Peer Social
     company_url: https://www.linkedin.com/company/peer-social-foundation/

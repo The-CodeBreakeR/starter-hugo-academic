@@ -16,7 +16,7 @@ main:
   - name: Honors & Awards
     url: '#honors_and_awards'
     weight: 40
-  - name: Presentations
+  - name: Talks
     url: '#presentations'
     weight: 50
   - name: Software Projects

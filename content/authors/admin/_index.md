@@ -5,8 +5,11 @@ avatar_filename: avatar.png
 bio: ""
 interests:
   - Algorithms
+  - Optimization
+  - Distributed Systems
   - Blockchains
   - Machine Learning
+  - Software Engineering
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. Candidate in the Department of Computer Science at the University of British Columbia, supervised by Dr. William Evans. My Ph.D. research project focuses on optimization with explorable uncertainty. With a solid background in both the theory and practice of computer science, I am interested in algorithms, blockchains, and machine learning.
+I am a Ph.D. candidate in the Department of Computer Science at the University of British Columbia (UBC), supervised by Dr. William Evans. My Ph.D. research focuses on optimization with explorable uncertainty, and I am expected to graduate in August 2025. With a solid background in both the theory and practice of computer science, I am interested in algorithms, optimization, distributed systems, blockchains, machine learning, and software engineering.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Ali_Tabatabaee.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.

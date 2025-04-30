@@ -22,7 +22,7 @@ item:
   date_end: ""
   date_start: "2024-03-01"
   description: ""
-  organization: The 16th Latin American Theoretical Informatics Symposium (LATIN)
+  organization: The 16th Latin American Theoretical Informatics Symposium
   organization_url: https://latin2024.cmm.uchile.cl/
   title: 'Minimizing the Size of the Uncertainty Regions for Centers of Moving Entities'
   url: ""
@@ -30,7 +30,7 @@ item:
   date_end: ""
   date_start: "2024-02-01"
   description: ""
-  organization: The 49th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM)
+  organization: The 49th International Conference on Current Trends in Theory and Practice of Computer Science
   organization_url: https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/professuren/theoretische-informatik/research/conferences-and-workshops/sofsem-2024
   title: 'Fractional Bamboo Trimming and Distributed Windows Scheduling'
   url: ""
@@ -38,7 +38,7 @@ item:
   date_end: ""
   date_start: "2022-06-01"
   description: ""
-  organization: The 4th Blockchain Technology Symposium (BTS)
+  organization: The 4th Blockchain Technology Symposium
   organization_url: https://bts-2022.cpsc.ucalgary.ca/
   title: 'One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains'
   url: ""
@@ -46,7 +46,7 @@ item:
   date_end: ""
   date_start: "2022-05-01"
   description: ""
-  organization: The IEEE 4th International Conference on Blockchain and Cryptocurrency (ICBC)
+  organization: The IEEE 4th International Conference on Blockchain and Cryptocurrency
   organization_url: https://icbc2022.ieee-icbc.org/
   title: 'One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains'
   url: ""
@@ -54,7 +54,7 @@ item:
   date_end: ""
   date_start: "2019-08-01"
   description: ""
-  organization: The 31st Canadian Conference on Computational Geometry (CCCG)
+  organization: The 31st Canadian Conference on Computational Geometry
   organization_url: https://sites.ualberta.ca/~cccg2019/
   title: 'Distributed Unit Clustering'
   url: ""

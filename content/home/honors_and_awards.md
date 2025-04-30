@@ -40,6 +40,14 @@ item:
   title: 'Faculty of Science Ph.D. Tuition Award'
   url: ""
 - certificate_url: ""
+  date_end: "2023-08-01"
+  date_start: "2019-09-01"
+  description: ""
+  organization: The University of British Columbia
+  organization_url: https://www.ubc.ca/
+  title: 'International Tuition Award'
+  url: ""
+- certificate_url: ""
   date_end: "2021-08-01"
   date_start: "2020-05-01"
   description: ""
@@ -54,14 +62,6 @@ item:
   organization: The University of British Columbia
   organization_url: https://www.ubc.ca/
   title: 'Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
-  url: ""
-- certificate_url: ""
-  date_end: "2023-08-01"
-  date_start: "2019-09-01"
-  description: ""
-  organization: The University of British Columbia
-  organization_url: https://www.ubc.ca/
-  title: 'International Tuition Award'
   url: ""
 - certificate_url: ""
   date_end: "2019-07-01"

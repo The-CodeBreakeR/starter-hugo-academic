@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: ""
+  date_end: "2025-08-01"
   date_start: "2021-09-01"
   description: ""
   organization: The University of British Columbia
@@ -32,7 +32,7 @@ item:
   title: 'President’s Academic Excellence Initiative Ph.D. Award'
   url: ""
 - certificate_url: ""
-  date_end: ""
+  date_end: "2025-08-01"
   date_start: "2021-08-01"
   description: ""
   organization: The University of British Columbia
@@ -40,7 +40,7 @@ item:
   title: 'Faculty of Science Ph.D. Tuition Award'
   url: ""
 - certificate_url: ""
-  date_end: ""
+  date_end: "2021-08-01"
   date_start: "2020-05-01"
   description: ""
   organization: Mitacs
@@ -48,7 +48,7 @@ item:
   title: 'Mitacs Accelerate Award (3 Units)'
   url: https://www.mitacs.ca/en/programs/accelerate
 - certificate_url: ""
-  date_end: ""
+  date_end: "2021-08-01"
   date_start: "2019-12-01"
   description: ""
   organization: The University of British Columbia
@@ -56,7 +56,7 @@ item:
   title: 'Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
   url: ""
 - certificate_url: ""
-  date_end: ""
+  date_end: "2023-08-01"
   date_start: "2019-09-01"
   description: ""
   organization: The University of British Columbia
@@ -64,7 +64,7 @@ item:
   title: 'International Tuition Award'
   url: ""
 - certificate_url: ""
-  date_end: ""
+  date_end: "2019-07-01"
   date_start: "2014-09-01"
   description: ""
   organization: Iran’s National Elites Foundation

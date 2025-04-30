@@ -28,7 +28,7 @@ experience:
     company_logo: the_university_of_british_columbia
     location: Vancouver, British Columbia, Canada
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2025-08-01'
     description: |2-
         Conducted research on optimization with explorable uncertainty supervised by Dr. William Evans
         * Thesis: Optimization with Explorable Uncertainty
@@ -38,7 +38,7 @@ experience:
     company_logo: the_university_of_british_columbia
     location: Vancouver, British Columbia, Canada
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2025-08-01'
     description: Assisted in teaching Intermediate Algorithm Design and Analysis (6 terms), Advanced Algorithms Design and Analysis (3 terms), Basic Algorithms and Data Structures (3 terms), Data Structures and Algorithms for Electrical Engineers (2 terms), and Introduction to Theory of Computing (1 term)
   - title: Research Intern
     company: The University of Edinburgh

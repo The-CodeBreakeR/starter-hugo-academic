@@ -26,7 +26,7 @@ experience:
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
-    location: Vancouver, British Columbia, Canada
+    location: Canada
     date_start: '2021-09-01'
     date_end: '2025-08-01'
     description: |2-
@@ -36,7 +36,7 @@ experience:
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
-    location: Vancouver, British Columbia, Canada
+    location: Canada
     date_start: '2019-09-01'
     date_end: '2025-08-01'
     description: Assisted in teaching Intermediate Algorithm Design and Analysis (6 terms), Advanced Algorithms Design and Analysis (3 terms), Basic Algorithms and Data Structures (3 terms), Data Structures and Algorithms for Electrical Engineers (2 terms), and Introduction to Theory of Computing (1 term)
@@ -44,7 +44,7 @@ experience:
     company: The University of Edinburgh
     company_url: https://www.ed.ac.uk/
     company_logo: university_of_edinburgh
-    location: Edinburgh, Scotland
+    location: Scotland
     date_start: '2024-05-01'
     date_end: '2024-07-01'
     description: Conducted research on spectral clustering for graphs with hierarchical clusters supervised by Dr. He Sun
@@ -52,7 +52,7 @@ experience:
     company: Kyoto University
     company_url: https://www.kyoto-u.ac.jp/en
     company_logo: kyoto_university
-    location: Kyoto, Japan
+    location: Japan
     date_start: '2023-07-01'
     date_end: '2023-08-01'
     description: Conducted research on fast construction of frequency difference consensus trees supervised by Dr. Jesper Jansson
@@ -60,7 +60,7 @@ experience:
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html
     company_logo: university_of_zurich
-    location: Zurich, Switzerland
+    location: Switzerland
     date_start: '2022-06-01'
     date_end: '2022-08-01'
     description: Conducted research on Bitcoin consensus without block rewards supervised by Dr. Claudio J. Tessone
@@ -68,7 +68,7 @@ experience:
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
-    location: Vancouver, British Columbia, Canada
+    location: Canada
     date_start: '2019-09-01'
     date_end: '2021-08-01'
     description: |2-
@@ -78,7 +78,7 @@ experience:
     company: Aquanow
     company_url: https://www.aquanow.io/
     company_logo: aquanow
-    location: Vancouver, British Columbia, Canada
+    location: Canada
     date_start: '2020-09-01'
     date_end: '2021-08-01'
     description: Conducted research on transaction relay in privacy-focused blockchains and developed network simulators and private test networks for this purpose
@@ -86,7 +86,7 @@ experience:
     company: Peer Social
     company_url: https://www.linkedin.com/company/peer-social-foundation/
     company_logo: peer_social
-    location: Vancouver, British Columbia, Canada
+    location: Canada
     date_start: '2020-05-01'
     date_end: '2020-08-01'
     description: Conducted research on the scalability of a decentralized social network application
@@ -94,7 +94,7 @@ experience:
     company: Sharif University of Technology
     company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
-    location: Tehran, Iran
+    location: Iran
     date_start: '2017-09-01'
     date_end: '2019-07-01'
     description: |2-
@@ -104,7 +104,7 @@ experience:
     company: Sharif University of Technology
     company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
-    location: Tehran, Iran
+    location: Iran
     date_start: '2016-09-01'
     date_end: '2018-12-01'
     description: Assisted in teaching Design of Algorithms (3 terms), Discrete Structures (2 terms), Artificial Intelligence (2 terms), and Theory of Languages and Automata (2 terms)
@@ -112,7 +112,7 @@ experience:
     company: Aalto University
     company_url: https://www.aalto.fi/en
     company_logo: aalto_university
-    location: Espoo, Finland
+    location: Finland
     date_start: '2018-06-01'
     date_end: '2018-08-01'
     description: Developed a decentralized marketplace for the Secure Open Federation for Internet Everywhere (SOFIE) project supervised by Dr. Pekka Nikander
@@ -120,7 +120,7 @@ experience:
     company: IT-Orbit Co.
     company_url: https://www.itorbit.net/
     company_logo: it-orbit_co.
-    location: Tehran, Iran
+    location: Iran
     date_start: '2017-07-01'
     date_end: '2017-09-01'
     description: Experimented with the source code of Bitcoin to understand its consensus algorithm and network behavior
@@ -128,7 +128,7 @@ experience:
     company: Salam High School
     company_url: https://salamsch.org/
     company_logo: salamhs
-    location: Tehran, Iran
+    location: Iran
     date_start: '2013-09-01'
     date_end: '2016-01-01'
     description: Taught Design of Algorithms, Programming in C++, Graph Theory, and Combinatorics

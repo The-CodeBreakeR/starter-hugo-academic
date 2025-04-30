@@ -68,7 +68,7 @@ item:
   date_start: "2014-09-01"
   description: ""
   organization: Iran’s National Elites Foundation
-  organization_url: https://en.bmn.ir/
+  # organization_url: https://en.bmn.ir/
   title: 'Grant for Undergraduate Studies'
   url: ""
 - certificate_url: ""

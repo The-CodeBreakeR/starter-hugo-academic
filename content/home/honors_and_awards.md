@@ -29,7 +29,7 @@ item:
   description: ""
   organization: The University of British Columbia
   organization_url: https://www.ubc.ca/
-  title: 'The President’s Academic Excellence Initiative Ph.D. Award'
+  title: 'President’s Academic Excellence Initiative Ph.D. Award'
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: The University of British Columbia
   organization_url: https://www.ubc.ca/
-  title: 'The Faculty of Science Ph.D. Tuition Award'
+  title: 'Faculty of Science Ph.D. Tuition Award'
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -45,7 +45,7 @@ item:
   description: ""
   organization: Mitacs
   organization_url: https://www.mitacs.ca/en
-  title: 'The Mitacs Accelerate Award (3 Units)'
+  title: 'Mitacs Accelerate Award (3 Units)'
   url: https://www.mitacs.ca/en/programs/accelerate
 - certificate_url: ""
   date_end: ""
@@ -53,7 +53,7 @@ item:
   description: ""
   organization: The University of British Columbia
   organization_url: https://www.ubc.ca/
-  title: 'The Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
+  title: 'Special UBC Graduate Scholarship - Blockchain@UBC Graduate Student Award'
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -61,7 +61,7 @@ item:
   description: ""
   organization: The University of British Columbia
   organization_url: https://www.ubc.ca/
-  title: 'The International Tuition Award'
+  title: 'International Tuition Award'
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -69,13 +69,13 @@ item:
   description: ""
   organization: Iran’s National Elites Foundation
   organization_url: https://en.bmn.ir/
-  title: 'The Grant for Undergraduate Studies'
+  title: 'Grant for Undergraduate Studies'
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2013-09-01"
   description: ""
-  organization: Young Scholars Club (YSC)
+  organization: Young Scholars Club
   organization_url: ""
   title: 'Gold Medal in the Iranian National Olympiad in Informatics (INOI)'
   url: https://ioinformatics.org/journal/v11si_2017_25_33.pdf
@@ -83,7 +83,7 @@ item:
   date_end: ""
   date_start: "2013-07-01"
   description: ""
-  organization: National Organization for Development of Exceptional Talents (NODET)
+  organization: National Organization for Development of Exceptional Talents
   organization_url: ""
   title: '1st Place in the 7th Hellinet Programming Contest'
   url: ""
@@ -99,7 +99,7 @@ item:
   date_end: ""
   date_start: "2012-09-01"
   description: ""
-  organization: Young Scholars Club (YSC)
+  organization: Young Scholars Club
   organization_url: ""
   title: 'Bronze Medal in the Iranian National Olympiad in Informatics (INOI)'
   url: https://ioinformatics.org/journal/v11si_2017_25_33.pdf

@@ -20,11 +20,11 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2024-03-01"
+  date_start: "2025-06-01"
   description: ""
-  organization: The 16th Latin American Theoretical Informatics Symposium
-  organization_url: https://latin2024.cmm.uchile.cl/
-  title: 'Minimizing the Size of the Uncertainty Regions for Centers of Moving Entities'
+  organization: The 14th International Conference on Algorithms and Complexity
+  organization_url: https://easyconferences.eu/ciac2025/
+  title: 'Perpetual Scheduling with Explorable Uncertainty'
   url: ""
 - certificate_url: ""
   date_end: ""

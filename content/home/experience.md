@@ -41,6 +41,14 @@ experience:
     date_end: '2025-08-01'
     description: Assisted in teaching Intermediate Algorithm Design and Analysis (6 terms), Advanced Algorithms Design and Analysis (3 terms), Basic Algorithms and Data Structures (3 terms), Data Structures and Algorithms for Electrical Engineers (2 terms), and Introduction to Theory of Computing (1 term)
   - title: Research Intern
+    company: The Australian National University
+    company_url: https://www.anu.edu.au/
+    company_logo: the_australian_national_university
+    location: Australia
+    date_start: '2025-04-01'
+    date_end: '2025-06-01'
+    description: Integrated a phylogenetic tree simulator into IQ-TREE supervised by Dr. Minh Bui
+  - title: Research Intern
     company: The University of Edinburgh
     company_url: https://www.ed.ac.uk/
     company_logo: university_of_edinburgh

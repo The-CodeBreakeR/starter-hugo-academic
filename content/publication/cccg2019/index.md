@@ -22,7 +22,7 @@ publishDate: "2019-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 31st Canadian Conference on Computational Geometry (CCCG)*
+publication: In *Proceedings of the 31st Canadian Conference on Computational Geometry*
 # publication_short: In *ICW*
 
 abstract: Given a set of points in the plane, the unit clustering problem asks for finding a minimum-size set of unit disks that cover the whole input set. We study the unit clustering problem in a distributed setting, where input data is partitioned among several machines. We present a (3 + ε)-approximation algorithm for the problem in the Euclidean plane, and a (4 + ε)-approximation algorithm for the problem under general Lp metric (p ≥ 1). We also study the capacitated version of the problem, where each cluster has a limited capacity for covering the points. We present a distributed algorithm for the capacitated version of the problem that achieves an approximation factor of 4 + ε in the L2 plane, and a factor of 5 + ε in general Lp metric. We also provide some complementary lower bounds.

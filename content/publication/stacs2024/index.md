@@ -23,7 +23,7 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 41st International Symposium on Theoretical Aspects of Computer Science (STACS)*
+publication: In *Proceedings of the 41st International Symposium on Theoretical Aspects of Computer Science*
 # publication_short: In *ICW*
 
 abstract: "A consensus tree is a phylogenetic tree that summarizes the evolutionary relationships inferred from a collection of phylogenetic trees with the same set of leaf labels. Among the many types of consensus trees that have been proposed in the last 50 years, the frequency difference consensus tree is one of the more finely resolved types that retains a large amount of information. This paper presents a new deterministic algorithm for constructing the frequency difference consensus tree. Given k phylogenetic trees with identical sets of n leaf labels, it runs in O(kn log n) time, improving the best previously known solution."

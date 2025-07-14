@@ -47,7 +47,7 @@ experience:
     location: Australia
     date_start: '2025-04-01'
     date_end: '2025-06-01'
-    description: Integrated a phylogenetic tree simulator into IQ-TREE supervised by Dr. Minh Bui
+    description: Added functionality for sequence alignment and phylogenetic tree simulation to the Python package for IQ-TREE supervised by Dr. Minh Bui
   - title: Research Intern
     company: The University of Edinburgh
     company_url: https://www.ed.ac.uk/

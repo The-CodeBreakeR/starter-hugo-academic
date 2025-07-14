@@ -8,11 +8,11 @@ authors:
 - William Evans
 - Seyed Ali Tabatabaee
 
-date: "2025-06-01T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-01T00:00:00Z"
+publishDate: "2025-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +31,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)!!!
-# links:
-# - name: Link
-#   url: ""
+# Custom links (uncomment lines below)
+links:
+- name: Link
+  url: https://link.springer.com/chapter/10.1007/978-3-031-92935-9_21
 
 url_pdf: ''
 url_code: ''

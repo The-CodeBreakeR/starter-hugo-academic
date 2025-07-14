@@ -24,7 +24,7 @@ item:
   description: "A sequence alignment and phylogenetic tree simulator integrated into piqtree, the Python package for IQ-TREE, using Python and C++"
   organization: "IQ-TREE"
   organization_url: https://iqtree.github.io/
-  title: 'piqtree's Alignment and Tree Simulator'
+  title: 'piqtree''s Alignment and Tree Simulator'
   url: https://github.com/The-CodeBreakeR/piqtree
 - certificate_url: ""
   date_end: "2020-04-01"

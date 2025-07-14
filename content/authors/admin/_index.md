@@ -30,7 +30,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: The University of British Columbia
-      year: 2025 (Expected)
+      year: 2025
     - course: M.Sc. in Computer Science
       institution: The University of British Columbia
       year: 2021

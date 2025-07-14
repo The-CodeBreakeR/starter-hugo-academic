@@ -24,7 +24,7 @@ item:
   description: "A phylogenetic tree simulator under the multi-species coalescent model integrated into IQ-TREE using C++"
   organization: "IQ-TREE"
   organization_url: https://iqtree.github.io/
-  title: 'AliSim Tree Simulator'
+  title: 'piqtree's Alignment and Tree Simulator'
   # url: https://github.com/iqtree/iqtree3
 - certificate_url: ""
   date_end: "2020-04-01"

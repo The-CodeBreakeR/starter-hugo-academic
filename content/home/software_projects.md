@@ -25,7 +25,7 @@ item:
   organization: "IQ-TREE"
   organization_url: https://iqtree.github.io/
   title: 'piqtree's Alignment and Tree Simulator'
-  url: https://github.com/The-CodeBreakeR/piqtree
+  # url: https://github.com/The-CodeBreakeR/piqtree
 - certificate_url: ""
   date_end: "2020-04-01"
   date_start: "2020-01-01"

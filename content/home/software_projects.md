@@ -21,11 +21,11 @@ item:
 - certificate_url: ""
   date_end: "2025-06-01"
   date_start: "2025-04-01"
-  description: "A phylogenetic tree simulator under the multi-species coalescent model integrated into IQ-TREE using C++"
+  description: "A sequence alignment and phylogenetic tree simulator integrated into piqtree, the Python package for IQ-TREE, using Python and C++"
   organization: "IQ-TREE"
   organization_url: https://iqtree.github.io/
-  title: 'AliSim Tree Simulator'
-  # url: https://github.com/iqtree/iqtree3
+  title: 'piqtree's Alignment and Tree Simulator'
+  url: https://github.com/The-CodeBreakeR/piqtree
 - certificate_url: ""
   date_end: "2020-04-01"
   date_start: "2020-01-01"

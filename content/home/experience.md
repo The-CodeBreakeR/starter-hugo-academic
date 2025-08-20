@@ -104,7 +104,7 @@ experience:
     company_logo: sharif_university_of_technology
     location: Iran
     date_start: '2017-09-01'
-    date_end: '2019-07-01'
+    date_end: '2019-08-01'
     description: |2-
         Conducted research on the unit clustering problem in a distributed setting supervised by Dr. Hamid Zarrabi-Zadeh
         * Thesis: Distributed Unit Disk Covering

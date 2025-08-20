@@ -22,13 +22,13 @@ twitter: ''
 
 email: tabataba.sali@gmail.com
 phone: +1 (604) 376-1375
-address:
-  street: 2366 Main Mall
-  city: Vancouver
-  region: BC
-  postcode: 'V6T 1Z4'
-  country: Canada
-  country_code: CA
+#address:
+  #street: 2366 Main Mall
+  #city: Vancouver
+  #region: BC
+  #postcode: 'V6T 1Z4'
+  #country: Canada
+  #country_code: CA
 
 contact_links:
   - icon: telegram

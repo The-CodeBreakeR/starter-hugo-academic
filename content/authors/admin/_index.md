@@ -1,6 +1,6 @@
 ---
 title: Ali Tabatabaee
-role: Ph.D. Candidate in Computer Science
+role: Senior Research Engineer
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:salitaba@cs.ubc.ca
+    link: mailto:tabataba.sali@gmail.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TOhR0XMAAAAJ&hl=en&oi=sra
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/seyed-ali-tabatabaee-2a5abb1a0/
 organizations:
-  - name: The University of British Columbia
-    url: https://www.ubc.ca/
+  - name: Huawei Canada
+    url: https://www.huawei.com/ca/
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. candidate in the Department of Computer Science at the University of British Columbia (UBC), supervised by Dr. William Evans. My Ph.D. research focuses on optimization with explorable uncertainty, and I am expected to graduate in August 2025. With a solid background in both the theory and practice of computer science, I am interested in algorithms, optimization, distributed systems, blockchains, machine learning, and software engineering.
+I am a Senior Research Engineer at Huawei Canada. I hold a Ph.D. in Computer Science from the University of British Columbia (UBC). With extensive experience in the theory and practice of computer science, I am interested in algorithms, optimization, distributed systems, blockchains, machine learning, and software engineering.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ali_Tabatabaee_CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.

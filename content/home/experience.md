@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Research Engineer
+    company: Huawei Canada
+    company_url: https://www.huawei.com/ca/
+    company_logo: huawei_canada
+    location: Canada
+    date_start: '2025-09-01'
+    date_end: ''
+    description: Working in the Distributed Scheduling and Data Engine Lab
   - title: Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/

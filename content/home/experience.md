@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Senior Research Engineer
     company: Huawei Canada
-    company_url: https://www.huawei.com/ca/
+    company_url: https://www.huawei.com/en/
     company_logo: huawei_canada
     location: Canada
     date_start: '2025-09-01'
@@ -38,8 +38,9 @@ experience:
     date_start: '2021-09-01'
     date_end: '2025-08-01'
     description: |2-
-        Conducted research on optimization with explorable uncertainty supervised by Dr. William Evans
-        * Thesis: Optimization with Explorable Uncertainty
+        * Led independent research on optimization with explorable uncertainty, defining novel problem formulations, designing algorithms, and proving their guarantees across three peer-reviewed papers and a Ph.D. thesis
+        * Designed real-time data acquisition strategies for facility location over bounded-speed moving objects, proving the best possible competitive ratios across several variants and impossibility results in high dimensions
+        * Initiated the study of perpetual scheduling under explorable uncertainty, designing constant-factor competitive and approximation algorithms in the online and offline settings, respectively
   - title: Teaching Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/

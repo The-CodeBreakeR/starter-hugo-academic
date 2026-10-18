@@ -7,8 +7,7 @@ interests:
   - Algorithms
   - Optimization
   - Distributed Systems
-  - Blockchains
-  - Machine Learning
+  - Databases
   - Software Engineering
 social:
   - icon: envelope
@@ -16,7 +15,7 @@ social:
     link: mailto:tabataba.sali@gmail.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=TOhR0XMAAAAJ&hl=en&oi=sra
+    link: https://scholar.google.com/citations?user=TOhR0XMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/The-CodeBreakeR
@@ -25,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/seyed-ali-tabatabaee-2a5abb1a0/
 organizations:
   - name: Huawei Canada
-    url: https://www.huawei.com/ca/
+    url: https://www.huawei.com/en/
 education:
   courses:
     - course: Ph.D. in Computer Science

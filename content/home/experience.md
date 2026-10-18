@@ -29,8 +29,9 @@ experience:
     location: Canada
     date_start: '2025-09-01'
     date_end: ''
-    description: Working in the Distributed Scheduling and Data Engine Lab
-  - title: Research Assistant
+    description: |2-
+        * Working in the Distributed Scheduling and Data Engine Lab
+  - title: Graduate Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
@@ -41,14 +42,15 @@ experience:
         * Led independent research on optimization with explorable uncertainty, defining novel problem formulations, designing algorithms, and proving their guarantees across three peer-reviewed papers and a Ph.D. thesis
         * Designed real-time data acquisition strategies for facility location over bounded-speed moving objects, proving the best possible competitive ratios across several variants and impossibility results in high dimensions
         * Initiated the study of perpetual scheduling under explorable uncertainty, designing constant-factor competitive and approximation algorithms in the online and offline settings, respectively
-  - title: Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
     location: Canada
     date_start: '2019-09-01'
     date_end: '2025-08-01'
-    description: Assisted in teaching Intermediate Algorithm Design and Analysis (6 terms), Advanced Algorithms Design and Analysis (3 terms), Basic Algorithms and Data Structures (3 terms), Data Structures and Algorithms for Electrical Engineers (2 terms), and Introduction to Theory of Computing (1 term)
+    description: |2-
+        * Delivered tutorials, office hours, and assignment and exam evaluations across 15 terms and 5 courses covering algorithms and theory of computing
   - title: Research Intern
     company: The Australian National University
     company_url: https://www.anu.edu.au/
@@ -56,7 +58,8 @@ experience:
     location: Australia
     date_start: '2025-04-01'
     date_end: '2025-06-01'
-    description: Added functionality for sequence alignment and phylogenetic tree simulation to the Python package for IQ-TREE supervised by Dr. Minh Bui
+    description: |2-
+        * Extended piqtree with IQ-TREE’s sequence alignment simulator using C++ and Python, and built end-to-end workflows generating alignments from coalescent trees simulated with msprime
   - title: Research Intern
     company: The University of Edinburgh
     company_url: https://www.ed.ac.uk/
@@ -64,7 +67,8 @@ experience:
     location: Scotland
     date_start: '2024-05-01'
     date_end: '2024-07-01'
-    description: Conducted research on spectral clustering for graphs with hierarchical clusters supervised by Dr. He Sun
+    description: |2-
+        * Investigated spectral clustering for graphs with hierarchical clusters, proving an expected eigengap under strongly separated edge probabilities across levels and developing Python simulations to examine eigengap patterns
   - title: Research Intern
     company: Kyoto University
     company_url: https://www.kyoto-u.ac.jp/en
@@ -72,7 +76,8 @@ experience:
     location: Japan
     date_start: '2023-07-01'
     date_end: '2023-08-01'
-    description: Conducted research on fast construction of frequency difference consensus trees supervised by Dr. Jesper Jansson
+    description: |2-
+        * Drove the publication of an O(kn log n) algorithm to construct frequency difference consensus trees, improving the previous best O(kn log^2 n), by formalizing its proofs, benchmarking it, and writing the final manuscript
   - title: Research Intern
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html
@@ -80,7 +85,8 @@ experience:
     location: Switzerland
     date_start: '2022-06-01'
     date_end: '2022-08-01'
-    description: Conducted research on Bitcoin consensus without block rewards supervised by Dr. Claudio J. Tessone
+    description: |2-
+        * Developed a Python agent-based simulation to model how miners’ transaction-inclusion and block-acceptance strategies affect Bitcoin consensus and miner payoffs when transaction fees are the sole mining incentive
   - title: Research Intern
     company: Aquanow
     company_url: https://www.aquanow.io/
@@ -88,8 +94,9 @@ experience:
     location: Canada
     date_start: '2020-09-01'
     date_end: '2021-08-01'
-    description: Conducted research on transaction relay in privacy-focused blockchains and developed network simulators and private test networks for this purpose
-  - title: Research Assistant
+    description: |2-
+        * Led the implementation of a C++ network simulator and a 100-node Azure test network to evaluate attacks on Beam, a privacy-focused blockchain based on MimbleWimble
+  - title: Graduate Research Assistant
     company: The University of British Columbia
     company_url: https://www.ubc.ca/
     company_logo: the_university_of_british_columbia
@@ -97,8 +104,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2021-08-01'
     description: |2-
-        Conducted research on transaction relay in privacy-focused blockchains and a novel BFT-based sidechain construction supervised by Dr. Ivan Beschastnikh and Dr. Chen Feng
-        * Thesis: Attacking Transaction Relay in MimbleWimble Blockchains
+        * Designed and evaluated three attacks on transaction relay in MimbleWimble blockchains, including a new denial-of-service attack that blocks over 45% of transactions with 10% malicious nodes
+        * Refined the Proof-of-Wait algorithm for Cumulus, a BFT-based sidechain, implemented its on-chain election in Solidity, and evaluated it with JavaScript, showing 93% checkpoint success with 50% silent validators
   - title: Research Intern
     company: Peer Social
     company_url: https://www.linkedin.com/company/peer-social-foundation/
@@ -106,8 +113,9 @@ experience:
     location: Canada
     date_start: '2020-05-01'
     date_end: '2020-08-01'
-    description: Conducted research on the scalability of a decentralized social network application
-  - title: Research Assistant
+    description: |2-
+        * Conducted research on the scalability of a decentralized social network application
+  - title: Undergraduate Research Assistant
     company: Sharif University of Technology
     company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
@@ -115,16 +123,16 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-08-01'
     description: |2-
-        Conducted research on the unit clustering problem in a distributed setting supervised by Dr. Hamid Zarrabi-Zadeh
-        * Thesis: Distributed Unit Disk Covering
-  - title: Teaching Assistant
+        * Designed massively parallel clustering algorithms with constant-factor approximation guarantees, strongly sublinear per-node memory, optimal communication complexity, and complementary lower bounds
+  - title: Undergraduate Teaching Assistant
     company: Sharif University of Technology
     company_url: https://en.sharif.ir/
     company_logo: sharif_university_of_technology
     location: Iran
     date_start: '2016-09-01'
     date_end: '2018-12-01'
-    description: Assisted in teaching Design of Algorithms (3 terms), Discrete Structures (2 terms), Artificial Intelligence (2 terms), and Theory of Languages and Automata (2 terms)
+    description: |2-
+        * Managed tutorials and designed and evaluated assignments and quizzes across 9 teaching appointments and 4 courses covering algorithms, theory of computing, and artificial intelligence
   - title: Research Intern
     company: Aalto University
     company_url: https://www.aalto.fi/en
@@ -132,7 +140,8 @@ experience:
     location: Finland
     date_start: '2018-06-01'
     date_end: '2018-08-01'
-    description: Developed a decentralized marketplace for the Secure Open Federation for Internet Everywhere (SOFIE) project supervised by Dr. Pekka Nikander
+    description: |2-
+        * Built SOFIE’s decentralized marketplace from scratch, implementing Solidity smart contracts for end-to-end auction workflows, deploying them to a local Ethereum blockchain, and testing them with JavaScript
   - title: Software Engineering Intern
     company: IT-Orbit Co.
     company_url: https://www.itorbit.net/
@@ -140,7 +149,8 @@ experience:
     location: Iran
     date_start: '2017-07-01'
     date_end: '2017-09-01'
-    description: Experimented with the source code of Bitcoin to understand its consensus algorithm and network behavior
+    description: |2-
+        * Experimented with the source code of Bitcoin to understand its consensus algorithm and network behavior
   - title: Instructor
     company: Salam High School
     company_url: https://salamsch.org/
@@ -148,7 +158,8 @@ experience:
     location: Iran
     date_start: '2013-09-01'
     date_end: '2016-01-01'
-    description: Taught Design of Algorithms, Programming in C++, Graph Theory, and Combinatorics
+    description: |2-
+        * Taught Design of Algorithms, Programming in C++, Graph Theory, and Combinatorics
 
 design:
   columns: '2'

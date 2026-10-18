@@ -77,7 +77,7 @@ experience:
     date_start: '2023-07-01'
     date_end: '2023-08-01'
     description: |2-
-        * Drove the publication of an O(kn log n) algorithm to construct frequency difference consensus trees, improving the previous best O(kn log<sup>2</sup> n), by formalizing its proofs, benchmarking it, and writing the final manuscript
+        * Drove the publication of an O(kn log n) algorithm to construct frequency difference consensus trees, improving the previous best O(kn log² n), by formalizing its proofs, benchmarking it, and writing the final manuscript
   - title: Research Intern
     company: The University of Zurich
     company_url: https://www.uzh.ch/en.html

@@ -41,5 +41,3 @@ superuser: true
 highlight_name: true
 ---
 I am a Senior Research Engineer at Huawei Canada, working in the Distributed Scheduling and Data Engine Lab. I hold a Ph.D. in CS from UBC, where I researched optimizing decisions when inputs are uncertain but can be refined through costly queries. I specialize in algorithms, optimization, distributed systems, and databases.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ali_Tabatabaee_CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
